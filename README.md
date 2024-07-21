@@ -14,8 +14,8 @@ Bu projeyi kullanmak için aşağıdaki adımları izleyin:
     ```sh
     python setup.py
     ```
+2. Kontrol etmek istediğiniz URL'leri `list.txt` dosyasına ekleyin.
 
-## Geri Bildirim 💬
-Her türlü geri bildirim ve öneriniz için bizimle iletişime geçebilirsiniz.
+## List.txt Nasıl Doldurulur? 📝
+`list.txt` dosyasını doldururken her satıra bir URL ekleyin. Örneğin: 1871 1961 gibi gibi
 
-İyi Kullanımlar! 🎉
